@@ -10,14 +10,24 @@ Este projeto, portanto, visa mergulhar nesse universo acústico, partindo da cur
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
+O ponto de partida para a nossa ideia foi uma pergunta simples: como podemos limpar algo que não conseguimos ver?
+
+O oceano é imenso, sabemos, por dados atuais, que representa 71% da superfície terrestre e, infelizmente, o lixo que produzimos já chegou aos seus cantos mais recônditos e desconhecidos. O maior obstáculo para a limpeza dos mares é que a maior parte desse lixo é invisível para nós e, muitas vezes, acaba não somente com a cadeia alimentar, mas também prejudica o corpo humano, pela inalação ou ingestão dos chamados microplásticos.
+
+Milhões de toneladas de plástico e outros detritos afundam, ficam suspensos na imensidão da água ou se espalham pelo fundo do mar, completamente fora de vista. Isso transforma qualquer tentativa de coleta em uma operação "às cegas", em que equipes gastam tempo e recursos valiosos procurando por focos de poluição sem saber exatamente onde eles estão.
+
+Com o intuito de resolver essa problemática que surgiu o nosso projeto atual. Vimos a necessidade de criar uma ferramenta que pudesse olhar através da água e nos dar um mapa claro de onde o lixo está escondido, tornando a limpeza uma missão possível e eficiente.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
+Objetivo Geral: 
+Desenvolver um protótipo de sonar utilizando as plataformas Arduino e MIT inventor, com o intuito de detectar e mapear resíduos sólidos no fundo do mar, contribuindo para a limpeza dos oceanos e a preservação ambiental.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Objetivos Específicos:
+ - Investigar a viabilidade técnica do uso de sensores ultrassônicos acoplados ao Arduino para a detecção de objetos submersos em diferentes profundidades e condições de visibilidade.
+
+- Construir e testar um sistema funcional de varredura subaquática que permita identificar a localização aproximada de resíduos sólidos não visíveis a olho nu.
  
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
+Esperamos que o nosso projeto possa ser aproveitado por ONGs ambientais, países com foco em preservação marinha e instituições de ensino, tanto para fins de pesquisa quanto como base para desenvolvimento por estudantes e engenheiros. Acreditamos que, por utilizar tecnologia acessível como o Arduino, o sonar pode ser uma solução viável e replicável em diferentes contextos.
