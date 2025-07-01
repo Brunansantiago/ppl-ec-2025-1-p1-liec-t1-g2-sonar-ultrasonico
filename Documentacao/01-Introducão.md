@@ -21,7 +21,7 @@ Com o intuito de resolver essa problemática que surgiu o nosso projeto atual. V
 ## Objetivos
 
 Objetivo Geral: 
-Desenvolver um protótipo de sonar utilizando as plataformas Arduino e MIT inventor, com o intuito de detectar e mapear resíduos sólidos no fundo do mar, contribuindo para a limpeza dos oceanos e a preservação ambiental.
+- Desenvolver um protótipo de sonar utilizando as plataformas Arduino e MIT inventor, com o intuito de detectar e mapear resíduos sólidos no fundo do mar, contribuindo para a limpeza dos oceanos e a preservação ambiental.
 
 Objetivos Específicos:
  - Investigar a viabilidade técnica do uso de sensores ultrassônicos acoplados ao Arduino para a detecção de objetos submersos em diferentes profundidades e condições de visibilidade.
