@@ -1,6 +1,6 @@
 ## Gerenciamento de Projeto
 
-O gerenciamento do projeto foi realizado principalmente por meio de comunicações pelo WhatsApp, onde discutíamos o andamento das atividades, tirávamos dúvidas técnicas e organizávamos os prazos. A divisão de tarefas foi feita de forma colaborativa, considerando as habilidades e disponibilidade de cada integrante. Também realizamos encontros presenciais periódicos, tanto na faculdade quanto em espaços de estudo, para montagem do protótipo, testes práticos e ajustes no planejamento.
+O gerenciamento do projeto foi realizado principalmente por meio de comunicações pelo WhatsApp, onde discutíamos o andamento das atividades, tirávamos dúvidas técnicas e organizávamos os prazos. A divisão de tarefas foi feita de forma colaborativa, considerando as habilidades e disponibilidade de cada integrante. Também realizamos encontros presenciais períodicos, tanto na faculdade quanto em espaços de estudo, para montagem do protótipo, testes práticos e ajustes no planejamento.
 
 # Metodologia
 
